@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <movie id="1">
+    <title>Inception</title>
+    <genre>Sci-Fi</genre>
+    <release_year>2010</release_year>
+    <rating>8.8</rating>
+    <available>Yes</available>
+    <copies>3</copies>
+    <image>images/Inception.jpeg</image>
+  </movie>
+  <movie id="2">
+    <title>The Matrix</title>
+    <genre>Action, Sci-Fi</genre>
+    <release_year>1999</release_year>
+    <rating>8.7</rating>
+    <available>No</available>
+    <copies>5</copies>
+    <image>images/The_Matrix.jpeg</image>
+  </movie>
+ 
+<movie id="3"><title>Smile 2</title><genre> Horror, Mystery</genre><release_year>2024</release_year><rating>8.5</rating><available>Yes</available><copies>3</copies><image>images/cc638fa316f89d11891c92109931a0cd.jpg</image></movie><movie id="4"><title>Descendants: The Rise of Red</title><genre>Fantasy</genre><release_year>2024</release_year><rating>8</rating><available>Yes</available><copies>5</copies><image>images/cc638fa316f89d11891c92109931a0cd1.jpg</image></movie><movie id="5"><title>Aftermath</title><genre>Action, Thriller</genre><release_year>2024</release_year><rating>8</rating><available>Yes</available><copies>5</copies><image>images/1464615da0a10b37cc3927db39b9e0e0.jpg</image></movie></catalog>
